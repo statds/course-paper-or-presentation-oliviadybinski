@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 OCT 2022 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  10 OCT 2022 14:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,7 +225,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 18.
 LaTeX Info: Redefining \pageref on input line 18.
 LaTeX Info: Redefining \nameref on input line 18.
- (./proposal.out) (./proposal.out)
 \@outlinefile=\write3
 \openout3 = `proposal.out'.
 
@@ -233,29 +232,68 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 20.
- [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./proposal.bbl
 
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
+Package natbib Warning: Citation `Cochrane' on page 1 undefined on input line 25.
 
-) [3] (./proposal.aux)
-Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: FA6DB158AA1A9A0DFE59516F4D312B73;647.
+
+Package natbib Warning: Citation `PLOS' on page 1 undefined on input line 25.
+
+
+Package natbib Warning: Citation `Cochrane' on page 1 undefined on input line 25.
+
+
+Package natbib Warning: Citation `British' on page 1 undefined on input line 25.
+
+
+Package natbib Warning: Citation `British' on page 1 undefined on input line 30.
+
+
+Package natbib Warning: Citation `Cochrane' on page 1 undefined on input line 30.
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `PLOS' on page 2 undefined on input line 35.
+
+
+Package natbib Warning: Citation `Frontiers' on page 2 undefined on input line 46.
+
+
+Package natbib Warning: Citation `Cochrane' on page 2 undefined on input line 46.
+
+[2]
+No file proposal.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[3] (./proposal.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `proposal.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `proposal.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  FA6DB158AA1A9A0DFE59516F4D312B73;647.
  ) 
 Here is how much of TeX's memory you used:
- 8303 strings out of 478268
- 130530 string characters out of 5846347
- 425244 words of memory out of 5000000
- 26435 multiletter control sequences out of 15000+600000
- 471375 words of font info for 35 fonts, out of 8000000 for 9000
+ 8290 strings out of 478268
+ 130389 string characters out of 5846347
+ 424793 words of memory out of 5000000
+ 26429 multiletter control sequences out of 15000+600000
+ 471682 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,1208b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,1244b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on proposal.pdf (3 pages, 47762 bytes).
+Output written on proposal.pdf (3 pages, 47246 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
