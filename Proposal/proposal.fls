@@ -440,11 +440,11 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ./proposal.bbl
-INPUT proposal.bbl
-INPUT ./proposal.bbl
-INPUT proposal.bbl
 INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./proposal.bbl
+INPUT proposal.bbl
+INPUT ./proposal.bbl
+INPUT proposal.bbl
 INPUT proposal.aux
 INPUT ./proposal.out
 INPUT ./proposal.out

@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex proposal"] 1665420748 "proposal.aux" "proposal.bbl" "proposal" 1665420750
+["bibtex proposal"] 1665420936 "proposal.aux" "proposal.bbl" "proposal" 1665420938
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
   "prop_cit.bib" 0 -1 0 ""
-  "proposal.aux" 1665420749 1720 2fcf51951d6f117168bfc1da57474ce9 "pdflatex"
+  "proposal.aux" 1665420938 1720 b433e5c27622310cc658ed183166a25b "pdflatex"
   (generated)
   "proposal.bbl"
   "proposal.blg"
-["pdflatex"] 1665420748 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Proposal/proposal.tex" "proposal.pdf" "proposal" 1665420750
-  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Proposal/proposal.tex" 1665420745 1609 db2c62ce7572dcb69d766e6d87da40f9 ""
+["pdflatex"] 1665420937 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Proposal/proposal.tex" "proposal.pdf" "proposal" 1665420938
+  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Proposal/proposal.tex" 1665420934 2472 7da2ce2f371e2df39436dae38c671149 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -62,10 +62,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664235748 2826436 56d54e6b5d985d4110e6038bc1fb4e31 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "proposal.aux" 1665420749 1720 2fcf51951d6f117168bfc1da57474ce9 "pdflatex"
-  "proposal.bbl" 1665420748 49 0eba253fc001332e731e8aba3f23127b "bibtex proposal"
-  "proposal.out" 1665420749 647 fa6db158aa1a9a0dfe59516f4d312b73 "pdflatex"
-  "proposal.tex" 1665420745 1609 db2c62ce7572dcb69d766e6d87da40f9 ""
+  "proposal.aux" 1665420938 1720 b433e5c27622310cc658ed183166a25b "pdflatex"
+  "proposal.bbl" 1665420937 49 0eba253fc001332e731e8aba3f23127b "bibtex proposal"
+  "proposal.out" 1665420938 647 fa6db158aa1a9a0dfe59516f4d312b73 "pdflatex"
+  "proposal.tex" 1665420934 2472 7da2ce2f371e2df39436dae38c671149 ""
   (generated)
   "proposal.aux"
   "proposal.log"
