@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex STAT_W_Paper"] 1668483829 "STAT_W_Paper.aux" "STAT_W_Paper.bbl" "STAT_W_Paper" 1668483829
+["bibtex STAT_W_Paper"] 1668483876 "STAT_W_Paper.aux" "STAT_W_Paper.bbl" "STAT_W_Paper" 1668483876
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "STAT_W_Paper.aux" 1668483829 2377 8702627014c5720e7e3c167c50206b73 "pdflatex"
+  "STAT_W_Paper.aux" 1668483875 2686 d569f127175508bfdcf8cdfd178fb8f1 "pdflatex"
   "STAT_W_Paper_cit.bib" 1668480025 2406 cad4a8fa4b582832d23372602fd97f7f ""
   (generated)
   "STAT_W_Paper.bbl"
   "STAT_W_Paper.blg"
-["pdflatex"] 1668483828 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1668483828
-  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1668483824 1258 ff5c65b777c99f6d9675dc4350e2ab46 ""
+["pdflatex"] 1668483874 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1668483874
+  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1668483870 1440 42e33dd703f600bf62dd2164626b9887 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -64,9 +64,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664235748 2826436 56d54e6b5d985d4110e6038bc1fb4e31 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "STAT_W_Paper.aux" 1668483828 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "STAT_W_Paper.aux" 1668483874 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "STAT_W_Paper.bbl" 0 -1 0 "bibtex STAT_W_Paper"
-  "STAT_W_Paper.tex" 1668483824 1258 ff5c65b777c99f6d9675dc4350e2ab46 ""
+  "STAT_W_Paper.tex" 1668483870 1440 42e33dd703f600bf62dd2164626b9887 ""
   (generated)
   "STAT_W_Paper.aux"
   "STAT_W_Paper.log"
