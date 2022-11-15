@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 22:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -269,11 +269,27 @@ LaTeX Warning: Reference `sec:discussion' on page 2 undefined on input line 42.
 Package natbib Warning: Citation `PLOS' on page 2 undefined on input line 47.
 
 [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 67.
+
+Overfull \hbox (60.45795pt too wide) in paragraph at lines 67--97
+ [][] 
+ []
+
+[3]
+Overfull \hbox (60.45795pt too wide) in paragraph at lines 105--135
+ [][] 
+ []
+
 No file STAT_W_Paper.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[3] [4] (./STAT_W_Paper.aux)
+[4] [5] (./STAT_W_Paper.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -282,18 +298,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 8560 strings out of 478268
- 134901 string characters out of 5846347
- 429065 words of memory out of 5000000
- 26692 multiletter control sequences out of 15000+600000
- 471682 words of font info for 36 fonts, out of 8000000 for 9000
+ 8582 strings out of 478268
+ 135156 string characters out of 5846347
+ 432065 words of memory out of 5000000
+ 26705 multiletter control sequences out of 15000+600000
+ 474421 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,1481b,320s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on STAT_W_Paper.pdf (4 pages, 53880 bytes).
+ 60i,8n,63p,1481b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on STAT_W_Paper.pdf (5 pages, 71656 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
