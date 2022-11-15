@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: STAT_W_Paper.aux
+The style file: chicago.bst
+Database file #1: STAT_W_Paper_cit.bib
+I was expecting a `,' or a `}'---line 9 of file STAT_W_Paper_cit.bib
+ :   
+ :   publisher={National Library of Medicine},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--no volume for Cochrane
+Warning--page numbers missing in Cochrane
+Warning--no number and no volume in Frontiers
+Warning--page numbers missing in Frontiers
+Warning--no number and no volume in PLOS
+Warning--page numbers missing in PLOS
+You've used 4 entries,
+            2861 wiz_defined-function locations,
+            641 strings with 6292 characters,
+and the built_in function-call counts, 5601 in all, are:
+= -- 316
+> -- 805
+< -- 0
++ -- 270
+- -- 270
+* -- 680
+:= -- 1111
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 65
+chr.to.int$ -- 4
+cite$ -- 10
+duplicate$ -- 66
+empty$ -- 149
+format.name$ -- 286
+if$ -- 980
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 40
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 89
+quote$ -- 0
+skip$ -- 69
+stack$ -- 0
+substring$ -- 107
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 80
+warning$ -- 6
+while$ -- 25
+width$ -- 0
+write$ -- 54
+(There was 1 error message)
