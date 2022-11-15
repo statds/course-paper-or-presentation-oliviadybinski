@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 23:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  14 NOV 2022 23:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -285,10 +285,37 @@ Overfull \hbox (60.45795pt too wide) in paragraph at lines 105--135
  [][] 
  []
 
+/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex:139: Undefined control sequence.
+l.139     \includegraphics
+                          [width=10 cm]{CHART1.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [4] [5]
+/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex:147: Undefined control sequence.
+l.147   \includegraphics
+                        [width=10 cm]{CHART2.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 149.
- [6]
+(Font)              <12> on input line 157.
+[6]
+/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex:161: Undefined control sequence.
+l.161   \includegraphics
+                        [width=10 cm]{CHART3.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 No file STAT_W_Paper.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -302,15 +329,15 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 8587 strings out of 478268
- 135213 string characters out of 5846347
+ 8591 strings out of 478268
+ 135255 string characters out of 5846347
  434065 words of memory out of 5000000
- 26708 multiletter control sequences out of 15000+600000
+ 26712 multiletter control sequences out of 15000+600000
  475036 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,1481b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on STAT_W_Paper.pdf (7 pages, 85251 bytes).
+Output written on STAT_W_Paper.pdf (7 pages, 85627 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
