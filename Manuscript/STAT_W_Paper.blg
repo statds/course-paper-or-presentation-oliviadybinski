@@ -3,11 +3,6 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: STAT_W_Paper.aux
 The style file: chicago.bst
 Database file #1: STAT_W_Paper_cit.bib
-I was expecting a `,' or a `}'---line 9 of file STAT_W_Paper_cit.bib
- :   
- :   publisher={National Library of Medicine},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--no volume for Cochrane
 Warning--page numbers missing in Cochrane
 Warning--no number and no volume in Frontiers
@@ -55,4 +50,4 @@ warning$ -- 6
 while$ -- 25
 width$ -- 0
 write$ -- 54
-(There was 1 error message)
+(There were 6 warnings)
