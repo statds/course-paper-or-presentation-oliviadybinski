@@ -347,15 +347,11 @@ Overfull \hbox (8.33858pt too wide) in paragraph at lines 176--178
  [][] 
  []
 
-[10 <./CHART3.png>] [11] (./STAT_W_Paper.bbl) [12] (./STAT_W_Paper.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[10 <./CHART3.png>] [11] (./STAT_W_Paper.bbl) [12] (./STAT_W_Paper.aux) ) 
 Here is how much of TeX's memory you used:
  9670 strings out of 478268
  151461 string characters out of 5846347
- 446546 words of memory out of 5000000
+ 446548 words of memory out of 5000000
  27734 multiletter control sequences out of 15000+600000
  476425 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
