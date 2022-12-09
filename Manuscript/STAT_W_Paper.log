@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -239,46 +239,31 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count287
-))
-
-/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex:16: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16   H
-        ow Different Variables Affect Depression Scores in Individuals, and ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
-
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
 \l__pdf_internal_box=\box54
 ) (./STAT_W_Paper.aux)
 \openout1 = `STAT_W_Paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
@@ -304,7 +289,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 21.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -314,110 +299,68 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count295
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ [1
 
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Overfull \hbox (33.50879pt too wide) in paragraph at lines 76--106
+ [][] 
+ []
 
-Package natbib Warning: Citation `PLOS' on page 2 undefined on input line 39.
-
-
-Package natbib Warning: Citation `Cochrane' on page 2 undefined on input line 39.
-
-
-Package natbib Warning: Citation `PLOS' on page 2 undefined on input line 39.
-
-
-Package natbib Warning: Citation `Cochrane' on page 2 undefined on input line 41.
-
-
-Package natbib Warning: Citation `British' on page 2 undefined on input line 41.
-
-
-Package natbib Warning: Citation `Frontiers' on page 2 undefined on input line 41.
-
-[2]
-
-LaTeX Warning: Reference `sec:data' on page 3 undefined on input line 45.
-
-
-LaTeX Warning: Reference `sec:application' on page 3 undefined on input line 45.
-
-
-LaTeX Warning: Reference `sec:discussion' on page 3 undefined on input line 45.
-
-
-Package natbib Warning: Citation `PLOS' on page 3 undefined on input line 50.
-
-[3] [4] [5]
-Overfull \hbox (33.50879pt too wide) in paragraph at lines 77--107
+[5]
+Overfull \hbox (33.50879pt too wide) in paragraph at lines 115--145
  [][] 
  []
 
 [6]
-Overfull \hbox (33.50879pt too wide) in paragraph at lines 116--146
- [][] 
- []
-
-[7]
-<CHART1.png, id=47, 605.26125pt x 426.59375pt>
+<CHART1.png, id=65, 605.26125pt x 426.59375pt>
 File: CHART1.png Graphic file (type png)
 <use CHART1.png>
-Package pdftex.def Info: CHART1.png  used on input line 152.
+Package pdftex.def Info: CHART1.png  used on input line 151.
 (pdftex.def)             Requested size: 398.33858pt x 280.75209pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 152--154
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 151--153
  [][] 
  []
 
-[8 <./CHART1.png>]
-<CHART2.png, id=55, 645.41125pt x 475.7775pt>
+[7 <./CHART1.png>]
+<CHART2.png, id=74, 645.41125pt x 475.7775pt>
 File: CHART2.png Graphic file (type png)
 <use CHART2.png>
-Package pdftex.def Info: CHART2.png  used on input line 166.
+Package pdftex.def Info: CHART2.png  used on input line 165.
 (pdftex.def)             Requested size: 398.33858pt x 293.64319pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 166--168
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 165--167
  [][] 
  []
 
-[9 <./CHART2.png>] [10]
-<CHART3.png, id=66, 658.46pt x 502.87875pt>
+[8 <./CHART2.png>] [9]
+<CHART3.png, id=85, 658.46pt x 502.87875pt>
 File: CHART3.png Graphic file (type png)
 <use CHART3.png>
-Package pdftex.def Info: CHART3.png  used on input line 183.
+Package pdftex.def Info: CHART3.png  used on input line 182.
 (pdftex.def)             Requested size: 398.33858pt x 304.22339pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 183--185
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 182--184
  [][] 
  []
 
-[11 <./CHART3.png>] [12]
-No file STAT_W_Paper.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-(./STAT_W_Paper.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[10 <./CHART3.png>] [11] (./STAT_W_Paper.bbl) [12] (./STAT_W_Paper.aux) ) 
 Here is how much of TeX's memory you used:
- 9648 strings out of 478268
- 151177 string characters out of 5846347
- 446102 words of memory out of 5000000
- 27720 multiletter control sequences out of 15000+600000
- 476693 words of font info for 54 fonts, out of 8000000 for 9000
+ 9670 strings out of 478268
+ 151471 string characters out of 5846347
+ 447590 words of memory out of 5000000
+ 27734 multiletter control sequences out of 15000+600000
+ 476733 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,63p,1481b,356s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on STAT_W_Paper.pdf (12 pages, 425761 bytes).
+ 60i,8n,63p,1490b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on STAT_W_Paper.pdf (12 pages, 443940 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
