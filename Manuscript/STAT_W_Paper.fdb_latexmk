@@ -6,8 +6,8 @@
   (generated)
   "STAT_W_Paper.bbl"
   "STAT_W_Paper.blg"
-["pdflatex"] 1670605941 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1670605941
-  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1670605937 14164 8a6eefc1bbc2b3bca622aea253d70ee2 ""
+["pdflatex"] 1670606025 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1670606025
+  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1670606020 14149 d57fbb9c63a6d1da4193692943a4dbcf ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -94,9 +94,9 @@
   "CHART1.png" 1668487093 195918 669ce86edad74cd2e9bc4fa074b57030 ""
   "CHART2.png" 1668487097 135785 526083ca042eb028088d0d5797e04dea ""
   "CHART3.png" 1668487099 150505 40c61dc72bb80d3c93d047798aeaa333 ""
-  "STAT_W_Paper.aux" 1670605941 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "STAT_W_Paper.aux" 1670606025 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "STAT_W_Paper.bbl" 0 -1 0 "bibtex STAT_W_Paper"
-  "STAT_W_Paper.tex" 1670605937 14164 8a6eefc1bbc2b3bca622aea253d70ee2 ""
+  "STAT_W_Paper.tex" 1670606020 14149 d57fbb9c63a6d1da4193692943a4dbcf ""
   (generated)
   "STAT_W_Paper.aux"
   "STAT_W_Paper.log"
