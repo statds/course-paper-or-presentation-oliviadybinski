@@ -1,0 +1,25 @@
+place and year,Mean Age,Study Number,Sample Size (N),Test Group (n1),Control Group (n2),Active vs Receptive,Group vs Individual,How Often Each Week,Sessions,Total Intervention Time (weeks),Time for Session (min),Total Time in Music Therapy (time of sesh * # of seshs),Before Depression Score (Test) (m1),After Depression Score (Test) (m1),Before Depression Score (Control) (m2),After Depression Score (Control) (m2)
+Italy 2019,>60,1,45,20,25,active,individual,2,12,6,70,840,5.05,3.6,4.92,4.84
+italy 2019,>60,3,24,12,12,receptive,individual,7,14,2,15,210,8,5.2,8,6.5
+hong kong 2009,>60,4,47,25,22,receptive,individual,1,8,8,30,240,13.1,7.9,13.4,15.8
+hong kong 2010,>60,5,42,21,21,active,group,1,4,4,45,180,4.1,2.1,1.8,2
+singapore 2012,>60,6,50,24,26,active,individual,1,4,4,30,120,4.17,1.38,4.23,4.15
+taiwan 2015,<60,7,71,31,40,receptive,group,2,20,10,40,800,15.52,9.82,15.03,15.53
+china 2018,<60,8,52,30,22,active,group,2,20,10,40,800,5.1,3.7,7.1,5.6
+taiwan 2019 ,>60,9,65,32,33,receptive,group,1,8,8,60,480,13.34,2.81,11,8.85
+hong kong 2019,<60,10,60,30,30,active,individual,1,52,52,45,2340,20.6,15.03,20.43,21.47
+italy 2020,<60,11,64,30,34,receptive,individual,1,20,20,20,400,12.333,11.867,13.353,14.559
+taiwan 2013,>60,13,100,49,51,active,group,2,12,6,30,360,17.39,8.22,15.7,13.78
+finland 2011,<60,15,79,33,46,active,individual,2,24,12,60,1440,24.6,14.1,23,16.43
+UK 2019,<60,16,62,33,29,active,group,1,12,12,90,1080,5.1,2.5,7.5,6
+turkey 2016,>60,17,64,32,32,receptive,group,3,24,8,20,480,8.13,7.16,8.5,9.13
+france 2009,>60,18,30,15,15,receptive,individual,1,16,16,20,320,16.7,8.9,11.8,11.2
+usa 1994,>60,19,20,10,10,receptive,individual,1,8,8,60,480,17.3,7.7,15.3,16.2
+switzerland 2014,>60,20,132,66,66,active,group,1,26,26,60,1560,4.2,3.9,3.7,3.4
+China 2018,>60,21,107,55,52,active,group,1,12,12,50,600,15.84,13.31,15.75,15.65
+greece 2018,<60,26,48,23,25,active,group,1,4,4,60,240,14.68,12.23,12.73,13.04
+brazil 2018,<60,27,21,10,11,receptive,individual,1,7,8,40,280,15.7,6.3,16,10.2
+denmark 2019,<60,28,38,18,20,active,individual,2,8,4,20,160,20.77,15.22,19.65,18.05
+italy 2017,<60,29,242,103,139,receptive,individual,1,7,5,60,420,8,7.2,7.8,8.3
+canada 2018,<60,30,25,13,12,active,group,1,9,9,90,810,7.93,7.4,10.14,8.5
+italy 2018,<60,31,106,61,45,active,group,2,12,6,60,720,25.22,20.78,21.13,19.31
