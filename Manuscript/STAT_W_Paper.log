@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 13:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.26)  9 DEC 2022 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,24 +265,24 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 ) (./STAT_W_Paper.aux)
 \openout1 = `STAT_W_Paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count292
@@ -343,7 +343,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 25.
+Package hyperref Info: Link coloring ON on input line 24.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -353,9 +353,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
@@ -368,33 +368,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 File: CHART1.png Graphic file (type png)
 <use CHART1.png>
 Package pdftex.def Info: CHART1.png  used on input line 153.
-(pdftex.def)             Requested size: 398.33858pt x 280.75209pt.
- [7 <./CHART1.png>]
-<CHART2.png, id=74, 645.41125pt x 475.7775pt>
+(pdftex.def)             Requested size: 455.24408pt x 320.86232pt.
+ [7 <./CHART1.png>] [8]
+<CHART2.png, id=78, 645.41125pt x 475.7775pt>
 File: CHART2.png Graphic file (type png)
 <use CHART2.png>
 Package pdftex.def Info: CHART2.png  used on input line 167.
-(pdftex.def)             Requested size: 398.33858pt x 293.64319pt.
- [8 <./CHART2.png>] [9]
-<CHART3.png, id=85, 658.46pt x 502.87875pt>
+(pdftex.def)             Requested size: 455.24408pt x 335.59015pt.
+ [9 <./CHART2.png>] [10]
+<CHART3.png, id=89, 658.46pt x 502.87875pt>
 File: CHART3.png Graphic file (type png)
 <use CHART3.png>
 Package pdftex.def Info: CHART3.png  used on input line 184.
-(pdftex.def)             Requested size: 398.33858pt x 304.22339pt.
- [10 <./CHART3.png>] [11] (./STAT_W_Paper.bbl) [12] (./STAT_W_Paper.aux) ) 
+(pdftex.def)             Requested size: 455.24408pt x 347.68498pt.
+ [11 <./CHART3.png>] [12] (./STAT_W_Paper.bbl) [13] (./STAT_W_Paper.aux) ) 
 Here is how much of TeX's memory you used:
- 10208 strings out of 478268
- 160227 string characters out of 5846347
+ 10209 strings out of 478268
+ 160234 string characters out of 5846347
  461200 words of memory out of 5000000
  28261 multiletter control sequences out of 15000+600000
  477034 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,63p,1472b,327s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on STAT_W_Paper.pdf (12 pages, 452348 bytes).
+Output written on STAT_W_Paper.pdf (13 pages, 452615 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
