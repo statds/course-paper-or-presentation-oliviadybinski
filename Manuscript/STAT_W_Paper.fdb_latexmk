@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex STAT_W_Paper"] 0 "STAT_W_Paper.aux" "STAT_W_Paper.bbl" "STAT_W_Paper" 0
+["bibtex STAT_W_Paper"] 1670606698 "STAT_W_Paper.aux" "STAT_W_Paper.bbl" "STAT_W_Paper" 1670606701
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1198629289 37416 2ae04276c51f11eda70770f4081293b7 ""
-  "STAT_W_Paper.aux" 0 -1 0 "pdflatex"
+  "STAT_W_Paper.aux" 1670606701 3731 1f5ee3e342d6b3b812c57fca9c2a6e70 "pdflatex"
   "STAT_W_Paper_cit.bib" 1669582241 2407 3bfbfa15f9ebee61fe5b4ed783b06b2c ""
   (generated)
   "STAT_W_Paper.bbl"
   "STAT_W_Paper.blg"
-["pdflatex"] 1670606557 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1670606557
-  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1670606554 14165 5a4415fa789043b34c07b0b083f9bf66 ""
+["pdflatex"] 1670606699 "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" "STAT_W_Paper.pdf" "STAT_W_Paper" 1670606701
+  "/Users/oliviadybinski/STAT 3494W Paper/course-paper-or-presentation-oliviadybinski/Manuscript/STAT_W_Paper.tex" 1670606692 14186 63c61af6b67a00db30414b48ce552804 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -27,6 +27,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
@@ -35,6 +36,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -88,6 +90,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty" 1291685959 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty" 1324344192 22913 a27d7908fc6f0385466454a966a316eb ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
@@ -96,9 +99,9 @@
   "CHART1.png" 1668487093 195918 669ce86edad74cd2e9bc4fa074b57030 ""
   "CHART2.png" 1668487097 135785 526083ca042eb028088d0d5797e04dea ""
   "CHART3.png" 1668487099 150505 40c61dc72bb80d3c93d047798aeaa333 ""
-  "STAT_W_Paper.aux" 1670606557 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "STAT_W_Paper.bbl" 0 -1 0 "bibtex STAT_W_Paper"
-  "STAT_W_Paper.tex" 1670606554 14165 5a4415fa789043b34c07b0b083f9bf66 ""
+  "STAT_W_Paper.aux" 1670606701 3731 1f5ee3e342d6b3b812c57fca9c2a6e70 "pdflatex"
+  "STAT_W_Paper.bbl" 1670606699 1851 4d07703ccf96046b17db5234c58cae33 "bibtex STAT_W_Paper"
+  "STAT_W_Paper.tex" 1670606692 14186 63c61af6b67a00db30414b48ce552804 ""
   (generated)
   "STAT_W_Paper.aux"
   "STAT_W_Paper.log"
